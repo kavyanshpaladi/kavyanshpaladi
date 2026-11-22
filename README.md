@@ -14,8 +14,10 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:00f0ff,100:7b2ff7&height=3" width="100%" alt="divider" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=false&width=520&height=60&lines=TECH+ARSENAL" alt="TECH ARSENAL" />
+
+
+
+
   <br />
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,godot&theme=dark" alt="skills" />
   <br /><br />
