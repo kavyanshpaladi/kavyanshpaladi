@@ -31,7 +31,7 @@
   <br /><br />
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:00f0ff,100:7b2ff7&height=3" width="100%" alt="divider" />
-font=Orbitron&weight=800&size=28&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=false&width=700&height=60&lines=THE+SNAKE+IS+HUNGRY" alt="THE SNAKE IS HUNGRY" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=false&width=700&height=60&lines=THE+SNAKE+IS+HUNGRY" alt="THE SNAKE IS HUNGRY" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishruth1729/vishruth1729/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishruth1729/vishruth1729/output/github-snake.svg" />
