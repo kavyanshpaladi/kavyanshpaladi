@@ -15,13 +15,6 @@
 
 <div align="center">
 
-
-
-
-  <br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,godot&theme=dark" alt="skills" />
-  <br /><br />
-
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7b2ff7,100:00f0ff&height=3" width="100%" alt="divider" />
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2000&pause=1000&color=FF2BD6&center=true&vCenter=true&repeat=false&width=520&height=60&lines=SYSTEM+STATS" alt="SYSTEM STATS" />
   <br />
