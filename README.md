@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff2bd6,50:7b2ff7,100:00f0ff&height=260&section=header&text=VISHRUTH&font=Orbitron&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=hey!%20thanks%20for%20stopping%20by&descSize=20&descAlignY=62&v=2" alt="header" width="100%" />
+  <img src="assets/banner.svg" alt="Vishruth" width="100%" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=640&height=55&lines=Thanks+for+viewing+my+profile!;Arigato!;Booting+up+something+cool...;Compiling+ideas+into+reality;Let's+build+together+%E2%9A%A1" alt="Typing headlines" />
   <br />
   <img src="https://komarev.com/ghpvc/?username=vishruth1729&label=PROFILE+VIEWS&color=7b2ff7&style=for-the-badge" alt="profile views" />
