@@ -35,11 +35,11 @@
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=vishruth1729&bg_color=00000000&color=00f0ff&line=ff2bd6&point=ffffff&area=true&area_color=7b2ff7&hide_border=true&custom_title=Contribution%20Matrix" alt="activity graph" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=false&width=700&height=60&lines=THE+SNAKE+IS+HUNGRY" alt="THE SNAKE IS HUNGRY" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishruth1729/vishruth1729/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishruth1729/vishruth1729/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vishruth1729/vishruth1729/output/github-snake-dark.svg" />
-  </picture>
+
+
+
+
+ 
   <br /><br />
 
 
