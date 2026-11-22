@@ -79,7 +79,7 @@
 
   <!-- text -->
   <text x="60" y="88" font-family="'Yu Gothic','Hiragino Sans','Noto Sans JP',sans-serif" font-size="20" font-weight="700" letter-spacing="6" fill="#00f0ff">ようこそ</text>
-  <text x="56" y="172" font-family="Orbitron,'Segoe UI',Arial,sans-serif" font-size="82" font-weight="800" letter-spacing="5" fill="#ffffff" filter="url(#glow)">VISHRUTH</text>
+  <text x="56" y="172" font-family="Orbitron,'Segoe UI',Arial,sans-serif" font-size="82" font-weight="800" letter-spacing="5" fill="#ffffff" filter="url(#glow)">KAVYANSH</text>
   <rect x="60" y="188" width="150" height="3" fill="#ff2bd6"/>
   <text x="60" y="222" font-family="Orbitron,'Segoe UI',Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="2" fill="#ff8fd8">hey! thanks for stopping by</text>
 </svg>
